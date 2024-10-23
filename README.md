@@ -1,6 +1,6 @@
 # Python-Project
 
-This Python script is a simple command-line tool for generating and comparing file hash values. It was created for educational purposes as a Python project to demonstrate the use of the `hashlib` library, file I/O operations, command-line argument parsing, and error handling. 
+This Python project is a simple command-line tool for generating and comparing file hash values. It was created for educational purposes as a Python project to demonstrate the use of the `hashlib` library, file I/O operations, command-line argument parsing, and error handling. 
 
 **This project is intended for learning and experimentation.** While it functions as a basic file hashing tool, it may not be suitable for production environments or security-critical applications.
 
